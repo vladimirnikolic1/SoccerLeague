@@ -1,11 +1,17 @@
 
 # Soccer League font
 
-![Image](image1.png)
+![Image](documentation/image1.png)
 
+## Variable Font Axe
 
-![Image](image2.png)
+New Amsterdam has the following axe:
 
+Axis | Tag | Default | Static Instances
+--- | --- | --- | ---
+Weight | wght | 400 | Regular
+
+![Image](documentation/image2.png)
 
 ## License
 
