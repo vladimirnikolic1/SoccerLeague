@@ -5,7 +5,7 @@
 
 ## Variable Font Axe
 
-New Amsterdam has the following axe:
+Soccer League has the following axe:
 
 Axis | Tag | Default | Static Instances
 --- | --- | --- | ---
